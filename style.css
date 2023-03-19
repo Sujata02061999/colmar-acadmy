@@ -1,0 +1,10 @@
+
+#lecture{
+    max-height: 10rem;
+    height: 12rem;
+    max-width: 100%;
+    width: 150px;
+}
+#card{
+    background-color: gray;
+}
